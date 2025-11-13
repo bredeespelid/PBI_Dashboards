@@ -11,13 +11,13 @@ Below is a visual overview of the included dashboards.
 Click on any image to open the slideshow mode.
 
 <p align="center">
-  <img src="PBI_GB_GoogleRatings.png"
+  <img src="img/PBI_GB_GoogleRatings.png"
        alt="Power BI dashboard preview"
        width="900">
 </p>
 
 <p align="center">
-  <img src="PBI_GB_Omsetning.png"
+  <img src="img/PBI_GB_Omsetning.png"
        alt="Power BI dashboard preview"
        width="900">
 </p>
