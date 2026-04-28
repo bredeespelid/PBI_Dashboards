@@ -1,9 +1,4 @@
-# Power BI Dashboards
 
-This repository contains a curated selection of exported Power BI dashboards.  
-All images can be previewed directly on GitHub, and clicking any image opens the built-in viewer, allowing you to navigate through the gallery using arrow keys—functioning as a simple slideshow.
-
----
 
 ## Dashboard Gallery
 
